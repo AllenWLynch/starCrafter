@@ -1,2 +1,2 @@
 print('hello world')
-print('this is cool')
+print('this is cool', 'fort')
